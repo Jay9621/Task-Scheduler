@@ -45,3 +45,8 @@ main {
 	border-radius: 3px;
 	cursor: pointer;
 }
+
+.completed {
+    text-decoration: line-through;
+    color: grey;
+}
